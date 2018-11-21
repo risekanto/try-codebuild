@@ -1,0 +1,10 @@
+{
+  "name": "gulp-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-file-tree": "^0.4.1"
+  }
+}
